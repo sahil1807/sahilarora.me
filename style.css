@@ -192,9 +192,19 @@ img, video {
     width: 100%
 }
 
+.container-class {
+    width:100%;
+    min-height:100vh;
+    font-size:18px;
+    max-height:fit-content
+}
+
 @media (min-width: 640px) {
     .container {
         max-width: 640px
+    }
+    .container-class {
+        font-size:31px;
     }
 }
 
@@ -202,11 +212,17 @@ img, video {
     .container {
         max-width: 768px
     }
+    .container-class {
+        font-size:28px;
+    }
 }
 
 @media (min-width: 1024px) {
     .container {
         max-width: 1024px
+    }
+    .container-class {
+        font-size:25px;
     }
 }
 
@@ -214,19 +230,18 @@ img, video {
     .container {
         max-width: 1280px
     }
+    .container-class {
+        font-size:22px;
+    }
 }
 
 @media (min-width: 1536px) {
     .container {
         max-width: 1536px
     }
-}
-
-.container-class {
-    width:100%;
-    min-height:100vh;
-    font-size:18px;
-    max-height:fit-content
+    .container-class {
+        font-size:19px;
+    }
 }
 
 .font-mono {

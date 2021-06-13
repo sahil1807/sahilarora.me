@@ -20,9 +20,9 @@ var consoleData = [
         html: "    <p id = \"console-pos-3\" class=\"console\">\n" +
             "        <span class='span-console-text'> &gt; ⚡️ Impressed? 👀 Let's talk! 👇🏼<br><br></span>\n" +
             "        <span class=\"mt-4 fadeIn\">\n" +
-            "            <a class=\"underline mr-12\" href=\"mailto:dhaiwatpandya@gmail.com\"target=\"_blank\" rel=\"noreferrer\">Email</a>\n" +
-            "            <a class=\"underline mr-12\" href=\"https://github.com/Dhaiwat10\" target=\"_blank\" rel=\"noreferrer\">GitHub</a>\n" +
-            "            <a class=\"underline false\" href=\"https://linkedin.com/in/dhaiwat-pandya\" target=\"_blank\"  rel=\"noreferrer\">LinkedIn</a>\n" +
+            "            <a class=\"underline mr-12\" href=\"mailto:sahil1807@gmail.com\"target=\"_blank\" rel=\"noreferrer\">Email</a>\n" +
+            "            <a class=\"underline mr-12\" href=\"https://github.com/sahil1807\" target=\"_blank\" rel=\"noreferrer\">GitHub</a>\n" +
+            "            <a class=\"underline false\" href=\"https://linkedin.com/in/sahil1807\" target=\"_blank\"  rel=\"noreferrer\">LinkedIn</a>\n" +
             "        </span>\n" +
             "    </p>"
     }
